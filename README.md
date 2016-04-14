@@ -1,5 +1,3 @@
-# ruby_smoothies
-
 ## Let's make some Smoothies!
 
 
