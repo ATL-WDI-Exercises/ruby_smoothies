@@ -20,3 +20,4 @@ class Blender
 		@power = !@power
 	end
 end 
+ 
