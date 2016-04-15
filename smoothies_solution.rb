@@ -19,4 +19,4 @@ class Blender
 	def switch
 		@power = !@power
 	end
-end
+end 
