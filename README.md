@@ -12,7 +12,7 @@
 	- Be sure to remove the spaces, as we don't want any air bubbles in our smoothie!
 
 
-```
+```ruby
 smoothie_ingredients = {
   'flax seeds' => '1 tbsp',
   'chia seeds' => '1 tbsp',
